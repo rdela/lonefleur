@@ -1,0 +1,13 @@
+{
+  "cSpell.words": [
+    "Contentful"
+  ],
+  "cSpell.ignorePaths": [
+    "node_modules",
+    "package.json",
+    "README.md",
+    "contentful",
+    "vscode-extension",
+    ".git"
+  ]
+}
